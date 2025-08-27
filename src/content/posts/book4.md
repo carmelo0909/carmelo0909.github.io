@@ -1,5 +1,5 @@
 ---
-title: The Intelligeent Investor
+title: The Intelligent Investor
 published: 2025-08-27
 tags: [Books]
 category: Review
